@@ -1,0 +1,5 @@
+# SHENSHOU GUARDIANS — https://roman-austin.github.io/Shenshou-guardians
+User-agent: *
+Allow: /
+
+Sitemap: https://roman-austin.github.io/Shenshou-guardians/sitemap.xml
