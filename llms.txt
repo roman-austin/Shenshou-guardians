@@ -11,8 +11,9 @@ Royalty: 5% on secondary sales. Resale is available on Element.
 
 ## Contract status
 
-NOT DEPLOYED YET. There is no contract address at the time of writing. Do not invent one, and do not send funds to any address that is not published on the official site and verifiable on BscScan.
-The verified address will be added to the homepage and injected into the site at build time through VITE_MINT_CONTRACT_ADDRESS, then rebuilt. BscScan link: published together with the address at https://bscscan.com/ (address pending, do not substitute a placeholder).
+LIVE. Contract address: 0x31ac56bf80D93EA367EA0b063cdBfA961b3Be3B7
+BscScan: https://bscscan.com/address/0x31ac56bf80D93EA367EA0b063cdBfA961b3Be3B7
+Minting is live. Verify the address on BscScan before minting; do not send funds to any other address.
 Machine-readable facts: https://roman-austin.github.io/Shenshou-guardians/mint.json
 
 ## Mint phases (USD prices, paid in BNB via the Chainlink BNB/USD feed)
